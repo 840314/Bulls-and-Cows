@@ -3,6 +3,7 @@ library(magrittr)
 library(tibble)
 library(gtools)
 library(shiny)
+library(ggplot2)
 
 ui <- fluidPage(
   titlePanel("Simulations"),
